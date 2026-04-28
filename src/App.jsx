@@ -6,7 +6,7 @@ import {
 import * as XLSX from "xlsx";
 
 // ─── Constants ────────────────────────────────────────────────────────────────
-const GRADES = ["Kinder","1° Grado","2° Grado","3° Grado","4° Grado","5° Grado","6° Grado"];
+const GRADES = ["9°1","9°2","10°1","10°2"];
 const STATUSES = {
   present: { label:"Asistió",    short:"A", color:"#22c55e", bg:"#dcfce7", text:"#15803d" },
   absent:  { label:"No Asistió", short:"F", color:"#ef4444", bg:"#fee2e2", text:"#b91c1c" },
